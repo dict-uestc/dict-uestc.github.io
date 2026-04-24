@@ -16,55 +16,43 @@ We focus on **model-driven intelligent systems across hardware and software**, a
 
 ## 主要研究方向 [Research Focus](/research/)
 
-- Self-Evolving AI Agents (See [Publications →](/publications/) / [Projects →](/projects/))
-- Autonomous Perception System for Robots (See [Projects →](/projects/))
-- Computer Vision (See [Publications →](/publications/)) 
-- Model-driven Intelligent Systems (See [Projects →](/projects/))
+- 自进化 AI 智能体系统 Self-Evolving AI Agents (See [Publications →](/publications/) / [Projects →](/projects/))
+- 自主导航机器人感知系统 Autonomous Perception System for Robots (See [Projects →](/projects/))
+- 计算机视觉算法与模型 Computer Vision (See [Publications →](/publications/)) 
+- 模型驱动智能系统 Model-driven Intelligent Systems (See [Projects →](/projects/))
 
 ---
 
-## Latest News
+## 团队动态 Latest News
 
 <!-- NEWS:START -->
-- 2026-03: 📄 (Main) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation", Liu, Jinliang (到湖本科实习生), Bai, Jiale, **🔥 Zeng Shaoning** 
-- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "A Dual-Phase Self-Evolution Framework for Large Language Models", Sun, Haoran (到湖本科实习生), Zhang, Zekun, **🔥 Zeng Shaoning**  
-- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Preference-Aware Memory Update for Long-Term LLM Agents", Sun, Haoran (到湖本科实习生), Zhang, Zekun, **🔥 Zeng Shaoning**  
-- 2025-12: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining", Wang, Jiayu, Bian, Haoyu (到湖本科实习生), Sun, Haoran, **🔥 Zeng Shaoning**
+- 2026-03: 📄 录用顶会论文 (Main) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation", Liu, Jinliang (到湖本科实习生), Bai, Jiale, **🔥 Zeng Shaoning** 
+- 2026-03: 📄 录用顶会论文 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "A Dual-Phase Self-Evolution Framework for Large Language Models", Sun, Haoran (到湖本科实习生), Zhang, Zekun, **🔥 Zeng Shaoning**  
+- 2026-03: 📄 录用顶会论文 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Preference-Aware Memory Update for Long-Term LLM Agents", Sun, Haoran (到湖本科实习生), Zhang, Zekun, **🔥 Zeng Shaoning**  
+- 2025-12: 📄 录用顶会论文 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining", Wang, Jiayu, Bian, Haoyu (到湖本科实习生), Sun, Haoran, **🔥 Zeng Shaoning**
 <!-- NEWS:END -->
 
 ---
 
-## Featured Projects
-
-- **Self-Evolving AI Agent System**  
-  From data to intelligent agents with continuous learning  
-  [Learn More →](/projects/)
-
-- **Autonomous Robot Perception System**  
-  Robust multi-modal perception and navigation  
-  [Learn More →](/projects/)
-
----
-
-## Featured Publications
+## 论文 Featured Publications
 
 <!-- PUBS:START -->
-**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
+顶会论文 **Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
 Liu, Jinliang, Bai, Jiale, **🔥 Zeng Shaoning**  
 *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2026*  
 
 
-**A Dual-Phase Self-Evolution Framework for Large Language Models**  
+顶会论文 **A Dual-Phase Self-Evolution Framework for Large Language Models**  
 Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
 *Findings of the Association for Computational Linguistics: ACL 2026 2026*  
 
 
-**Preference-Aware Memory Update for Long-Term LLM Agents**  
+顶会论文 **Preference-Aware Memory Update for Long-Term LLM Agents**  
 Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
 *Findings of the Association for Computational Linguistics: ACL 2026 2026*  
 
 
-**SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**  
+顶会论文 **SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**  
 Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**  
 *AAAI 2026*  
 
@@ -78,7 +66,7 @@ Sun, Haoran, **🔥 Zeng Shaoning**, Zhang, Bob
 
 ---
 
-## Contact
+## 联系我们 Contact
 
 数智融合创新研究团队，<a href="https://csj.uestc.edu.cn" target="_blank">2021-至今</a>
 电子科技大学长三角研究院（湖州）
