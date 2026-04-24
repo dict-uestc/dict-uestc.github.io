@@ -14,7 +14,7 @@ We focus on **model-driven intelligent systems across hardware and software**, a
 
 ---
 
-## 主要研究方向 Research Focus
+## 主要研究方向 [Research Focus](/research/)
 
 - Self-Evolving AI Agents (See [Publications →](/publications/) / [Projects →](/projects/))
 - Autonomous Perception System for Robots (See [Projects →](/projects/))
