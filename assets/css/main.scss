@@ -15,3 +15,38 @@
   position: relative;
   top: -5px;
 }
+
+.research-block {
+  display: grid;
+  grid-template-columns: 2fr 1fr; /* 文字 : 图片 = 2 : 1 */
+  gap: 32px;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.research-text {
+  line-height: 1.7;
+}
+
+.research-img {
+  width: 100%;
+  max-width: 360px;
+  border-radius: 10px;
+}
+
+/* 图片居中 */
+.research-image-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+/* 响应式（非常关键） */
+@media (max-width: 768px) {
+  .research-block {
+    grid-template-columns: 1fr; /* 小屏变上下布局 */
+  }
+
+  .research-image-wrapper {
+    margin-top: 16px;
+  }
+}
