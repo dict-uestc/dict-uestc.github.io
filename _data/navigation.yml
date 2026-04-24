@@ -1,0 +1,19 @@
+main:
+  # - title: "Home"
+  #   url: /
+  # - title: "About"
+  #   url: /about/
+  # - title: "People"
+  #   url: /people/
+  - title: "研究方向 Research"
+    url: /research/
+  - title: "论文 Publications"
+    url: /publications/
+  - title: "项目 Projects"
+    url: /projects/
+  # - title: "Students"
+  #   url: /students/
+  # - title: "近期动态 News"
+  #   url: /news/
+  - title: "联系我们 Contact"
+    url: /contact/

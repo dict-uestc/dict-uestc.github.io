@@ -1,0 +1,17 @@
+---
+---
+
+@import "minimal-mistakes";
+
+.site-title {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
+  height: 28px;
+  margin-right: 8px;
+  vertical-align: middle;
+  position: relative;
+  top: -5px;
+}
