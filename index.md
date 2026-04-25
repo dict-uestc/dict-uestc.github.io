@@ -1,6 +1,6 @@
 ---
 layout: single
-title: DICT@YDRI.UESTC
+title: 数智融合创新研究团队｜我的科研简历
 author_profile: false
 ---
 
@@ -68,9 +68,8 @@ Sun, Haoran, **🔥 Zeng Shaoning**, Zhang, Bob
 
 ## 联系我们 Contact
 
-数智融合创新研究团队，<a href="https://csj.uestc.edu.cn" target="_blank">2021-至今</a>
-电子科技大学长三角研究院（湖州）
-DICT of YDRI (Huzhou), UESTC
+数智融合创新研究团队，<a href="https://csj.uestc.edu.cn" target="_blank">
+电子科技大学长三角研究院（湖州）</a> DICT of YDRI (Huzhou), UESTC
 
 校企合作、到湖实习（本科生、研究生）及学术交流等，
 请联系 Email: zsn (AT) outlook.com
