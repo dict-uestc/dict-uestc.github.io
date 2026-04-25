@@ -73,4 +73,4 @@ Sun, Haoran, **🔥 Zeng Shaoning**, Zhang, Bob
 电子科技大学长三角研究院（湖州）</a> DICT of YDRI (Huzhou), UESTC
 
 校企合作、到湖实习（本科生、研究生）及学术交流等，
-请联系 Email: zsn (AT) outlook.com
+请联系 Email: zsn (AT) outlook.com （曾老师，博士｜研究员｜正高级）
