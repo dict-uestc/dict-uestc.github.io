@@ -1,6 +1,7 @@
 ---
 layout: single
 title: DICT@YDRI.UESTC
+excerpt: "科研简历｜团队介绍｜电子科技大学长三角研究院（湖州）"
 author_profile: false
 ---
 
