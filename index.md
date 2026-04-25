@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 数智融合创新研究团队｜我的科研简历
+title: DICT@YDRI.UESTC
 author_profile: false
 ---
 
